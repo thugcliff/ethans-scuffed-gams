@@ -1,0 +1,10 @@
+.logotext{
+  font-family: Tahoma, sans-serif;
+  font-size: 20;
+  background-image: repeating-linear-gradient(90deg, red, blue, red, blue, red, blue, red);
+  background-size: 800% 800%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: rainbow 10s linear infinite;
+}
+  }
